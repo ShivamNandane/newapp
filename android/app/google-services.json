@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "140725186872",
+    "project_id": "newapp-de511",
+    "storage_bucket": "newapp-de511.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140725186872:android:e782df7c702767a03d51cd",
+        "android_client_info": {
+          "package_name": "com.newapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140725186872-gell0comk5342p3kk9e215e0eo83fvsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMns0EMaa6qMw_-LmEw_e0TMUarSGxHNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140725186872-gell0comk5342p3kk9e215e0eo83fvsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
